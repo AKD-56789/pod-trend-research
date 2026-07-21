@@ -6,4 +6,4 @@ This is a personal, non-commercial script used by its owner only.
 - It does not collect, store, or process any personal data of Pinterest users.
 - No data is shared, sold, or distributed to third parties.
 - Trend data is used solely for short-term product research and is not retained long-term.
-- Contact: email-cua-ban@gmail.com
+- Contact: nguyenhungx7ht@gmail.com
